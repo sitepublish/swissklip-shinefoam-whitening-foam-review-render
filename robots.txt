@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://swissklip-shinefoam-whitening-foam-review-render.onrender.com/sitemap.xml
